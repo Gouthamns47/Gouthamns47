@@ -11,7 +11,7 @@ and professional growth in the IT industry
 - 📫 Feel free to reach out to me email and Linkedin
 - 📧 [Email Me](mailto:gouthamnsanjay47@outlook.com)
 - <a href="https://www.linkedin.com/in/gouthamnsanjay" target="_blank">
-  <img src="images/linkedin(1).svg" alt="LinkedIn Profile" height="30" width="30">
+  <img src="images/linkedin (1).svg" alt="LinkedIn Profile" height="30" width="30">
 </a>
 
 
