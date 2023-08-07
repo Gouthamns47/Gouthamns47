@@ -9,7 +9,7 @@ and professional growth in the IT industry
 - 🌱 I’m currently developing my competitive coding skills.
 - 💞️ I’m looking to collaborate on open-source projects and have some hands on experience 
 - 📫 Feel free to reach out to me email and Linkedin
-- 📧 gouthamnsanjay@outlook.com
+- 📧 [Email Me](mailto:gouthamnsanjay47@outlook.com)
 <!---
 Gouthamns47/Gouthamns47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
