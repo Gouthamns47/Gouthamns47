@@ -10,7 +10,11 @@ and professional growth in the IT industry
 - 💞️ I’m looking to collaborate on open-source projects and have some hands on experience 
 - 📫 Feel free to reach out to me email and Linkedin
 - 📧 [Email Me](mailto:gouthamnsanjay47@outlook.com)
-- 
+- <a href="https://www.linkedin.com/in/gouthamnsanjay" target="_blank">
+  <img src="images/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
+</a>
+
+
 <!---
 Gouthamns47/Gouthamns47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
